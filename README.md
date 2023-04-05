@@ -1,4 +1,4 @@
-This study is aimed at comparing the ELM with the MLPClassifier library neural network.
+This project is aimed at comparing the ELM with the MLPClassifier library neural network.
 
 To start the project, you need to have Jupyter Notebook, poetry installed.
 
